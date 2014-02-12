@@ -2,10 +2,7 @@ package myChess;
 
 public class Pawn {
 
-	private String color = "white";
-	
-	public Pawn(){
-	}
+	private String color;
 	
 	public Pawn(String color) {
 		this.color = color;
